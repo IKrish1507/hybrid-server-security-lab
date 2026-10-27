@@ -1,0 +1,7 @@
+*.key
+*.pem
+*.pfx
+*.vmdk
+*.vmem
+.DS_Store
+Thumbs.db
